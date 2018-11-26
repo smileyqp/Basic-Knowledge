@@ -1,5 +1,5 @@
 studylist:
-1、ros(http://wiki.ros.org/ROS/Tutorials)
+1、ros(http://wiki.ros.org/ROS/Tutorials & http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment)
 2、electron：used for desktop applications
 3、apollo(baidu无人驾驶)
 4、dreamview(https://github.com/ApolloAuto/apollo/blob/master/docs/specs/dreamview_usage_table_cn.md)
@@ -8,3 +8,15 @@ studylist:
 Tasklist:
 1、website SEO
 2、use electron to rewrite ……
+
+
+Useful website:
+1、https://github.com/CPFL/Autoware
+2、http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment
+3、https://github.com/ApolloAuto/apollo/tree/master/modules/dreamview
+4、https://github.com/demopark/electron-api-demos-Zh_CN/tree/669e26c7ec80a4aee150e7c196105782ed4605c0
+5、https://github.com/protocolbuffers/protobuf
+6、https://github.com/electron/electron/blob/master/docs/tutorial/devtools-extension.md
+7、https://www.w3cschool.cn/electronmanual/fghs1ql5.html
+
+
