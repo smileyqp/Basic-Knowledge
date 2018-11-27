@@ -11,7 +11,7 @@ studylist:
 
 6、waymo（谷歌无人驾驶项目）
 
-7、WebGL(3D绘图点云)
+7、WebGL(3D绘图点云https://developer.mozilla.org/zh-CN/docs/Learn/WebGL)
 
 
 Tasklist:
