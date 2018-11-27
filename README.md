@@ -9,6 +9,8 @@ studylist:
 
 5、autoware（https://github.com/CPFL/Autoware）
 
+6、waymo（谷歌无人驾驶项目）
+
 Tasklist:
 1、website SEO
 2、use electron to rewrite ……
