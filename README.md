@@ -1,7 +1,7 @@
 studylist:
 1、ros(http://wiki.ros.org/ROS/Tutorials & http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment)
 
-2、electron：used for desktop applications
+2、electron：used for desktop applications(this is a website which UI can be applied in our app project http://photonkit.com/)
 
 3、apollo(baidu无人驾驶https://github.com/ApolloAuto/apollo)
 
