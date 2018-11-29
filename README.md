@@ -15,8 +15,10 @@ studylist:
 
 some cool website:https://www.cnblogs.com/lhb25/p/20-webgl-demo-and-examples.html
 
+8、react.js
+
 
 Tasklist:
 1、website SEO
 
-2、use electron to rewrite dreamview
+2、use electron to rewrite dreamview(apollo)
