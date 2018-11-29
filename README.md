@@ -15,7 +15,7 @@ studylist:
 
 some cool website:https://www.cnblogs.com/lhb25/p/20-webgl-demo-and-examples.html
 
-8、react.js
+8、react.js(http://www.ruanyifeng.com/blog/2015/03/react.html)
 
 
 Tasklist:
