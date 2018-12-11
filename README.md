@@ -4,6 +4,7 @@ studylist:
 2、electron：used for desktop applications(this is a website which UI can be applied in our app project http://photonkit.com/)
 
 3、apollo(baidu无人驾驶https://github.com/ApolloAuto/apollo)
+https://github.com/ApolloAuto/apollo/blob/master/docs/demo_guide/README.md
 
 4、dreamview(https://github.com/ApolloAuto/apollo/blob/master/docs/specs/dreamview_usage_table_cn.md)
 
